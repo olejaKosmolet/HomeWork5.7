@@ -1,0 +1,4 @@
+repository "HomeWork5.7@bitard2112@cloud"
+  path "/"
+    br "/main"
+    co "/main"
